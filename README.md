@@ -1,5 +1,6 @@
 ## git-tutorial
 Toy shell for git tutorial purposes
+Pale spor si majket
 
 Fork this repository, and then clone it by running the following command:
 
